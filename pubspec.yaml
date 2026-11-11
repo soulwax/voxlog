@@ -1,0 +1,11 @@
+name: voxlog
+description: Fast, multi-sink structured logging for Dart, CLI applications, and game engines.
+version: 1.0.0
+homepage: https://github.com/soulwax/voxlog
+repository: https://github.com/soulwax/voxlog
+
+environment:
+  sdk: ^3.5.0
+
+dev_dependencies:
+  test: ^1.25.0
